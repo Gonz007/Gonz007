@@ -1,6 +1,10 @@
 ### Desarrollador backend
 
-¡Hola! Soy un desarrollador de software versátil con experiencia en Java, C# y Python. Me apasiona la resolución de problemas y la creación de soluciones eficaces y escalables, siempre con la intención de seguir aprendiendo y mejorando mis habilidades.
+# Hola, ¡bienvenidos a mi GitHub! 👋
+
+Soy un **desarrollador de software versátil** con experiencia en Java, C# y Python. Me apasiona la resolución de problemas y la creación de soluciones eficaces y escalables.
+
+En este GitHub encontrarás algunos de mis proyectos personales que demuestran mis habilidades e intereses en diferentes lenguajes de programación. Sientete libre de explorar y si tienes cualquier pregunta o comentario, no dudes en contactarme.
 
 
 ![Alt Text](https://www.developerro.com/assets/uploads/2019/02/c-sharp-name.gif)
