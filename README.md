@@ -8,7 +8,7 @@ En este GitHub encontrarás algunos de mis proyectos personales que demuestran m
 
 
 ![Alt Text](https://www.developerro.com/assets/uploads/2019/02/c-sharp-name.gif)
-
+![Alt Text](https://www.developerro.com/assets/uploads/2019/02/c-sharp-name.gif)
 
 # Pagina web
 https://gonz007.github.io/
