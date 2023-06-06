@@ -7,7 +7,7 @@ Soy un **desarrollador de software versátil** con experiencia en Java, C# y Pyt
 En este GitHub encontrarás algunos de mis proyectos personales que demuestran mis habilidades e intereses en diferentes lenguajes de programación. Sientete libre de explorar y si tienes cualquier pregunta o comentario, no dudes en contactarme.
 
 
-![Alt Text](https://www.developerro.com/assets/uploads/2019/02/c-sharp-name.gif)
+![Alt Text](https://www.developerro.com/assets/uploads/2019/02/c-sharp-name.gif) ![Alt Text](https://www.developerro.com/assets/uploads/2019/02/c-sharp-name.gif)
 ![Alt Text](https://www.developerro.com/assets/uploads/2019/02/c-sharp-name.gif)
 
 # Pagina web
