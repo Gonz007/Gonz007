@@ -3,9 +3,10 @@
 ¡Hola! Soy un desarrollador de software versátil con experiencia en Java, C# y Python. Me apasiona la resolución de problemas y la creación de soluciones eficaces y escalables, siempre con la intención de seguir aprendiendo y mejorando mis habilidades.
 
 
-# Pagina web![Alt Text]([url-del-gif](https://www.developerro.com/assets/uploads/2019/02/c-sharp-name.gif))
+![Alt Text](https://www.developerro.com/assets/uploads/2019/02/c-sharp-name.gif)
 
 
+# Pagina web
 https://gonz007.github.io/
 
 <!--
